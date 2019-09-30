@@ -4,3 +4,4 @@ IF Hungry=="Yes":
  else:
   Print ("Do your homework")
   Print ("That's good")
+  Print ("That's Nice")
